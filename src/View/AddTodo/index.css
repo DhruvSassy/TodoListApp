@@ -1,0 +1,28 @@
+body{
+    background-color: #ccddff;
+  }
+  
+  .app{
+    text-align: center;
+  }
+  
+  .container {
+    background-color: rgb(7, 2, 71);
+    justify-content: center;
+    width: 50%;
+    margin-left: 26%;
+    margin-top:5%;
+    text-align: center;
+    padding: 20px;
+  }
+
+  
+.header{
+    width:100%;
+    padding: 12px 2px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
+  
